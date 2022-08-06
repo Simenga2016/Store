@@ -1,0 +1,26 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Cloth",
+      "description": "Something to wear it LoL"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "New",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Other",
+      "description": "What is that!? o_0"
+    }
+  }
+]
